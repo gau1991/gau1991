@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=gau1991&color=grey)
+
 ### Hi there 👋
 
 <!--
